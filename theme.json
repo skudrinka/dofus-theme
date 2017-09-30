@@ -2,11 +2,11 @@
      {
          "author" : "skudrinka",
          "name" : "skud",
-         "keyWords" : "mots, clés",
+         "keyWords" : "mots, clÃ©s",
          "version" : "1.0.0",
          "dofusVersion" : "2.43",
-         "description" : "Description de votre thème",
-         "url" : "https://github.com/skudrinka/dofus-theme/blob/master/skud.zip?raw=true",
+         "description" : "Description de votre thÃ¨me",
+         "url" : "https://github.com/skudrinka/dofus-theme/blob/master/skud.zip",
          "previewUrl" : "votre image de preview",
          "creationDate" : "25/10/2016",
          "modificationDate" : "25/10/2016"
