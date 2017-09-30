@@ -1,1 +1,14 @@
-[     {         "author" : "skudrinka",         "name" : "skud",         "keyWords" : "mots, clés",         "version" : "1.0.0",         "dofusVersion" : "2.43",         "description" : "Description de votre thème",         "url" : "https://github.com/skudrinka/dofus-theme/blob/master/skud.zip?raw=true",         "previewUrl" : "votre image de preview",         "creationDate" : "25/10/2016",         "modificationDate" : "25/10/2016"     } ]
+[
+     {
+         "author" : "skudrinka",
+         "name" : "skud",
+         "keyWords" : "mots, clés",
+         "version" : "1.0.0",
+         "dofusVersion" : "2.43",
+         "description" : "Description de votre thème",
+         "url" : "https://github.com/skudrinka/dofus-theme/blob/master/skud.zip?raw=true",
+         "previewUrl" : "votre image de preview",
+         "creationDate" : "25/10/2016",
+         "modificationDate" : "25/10/2016"
+     }
+ ]
